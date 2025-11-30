@@ -101,3 +101,5 @@ Seluruh logika program dijalankan melalui lima bagian utama:
 
 ## output
 <img src="/output/output6.1.png">
+<img width="1590" height="975" alt="output6 2" src="https://github.com/user-attachments/assets/b5c48768-47e0-476e-98ee-0f42d3f1a99f" />
+<img width="1585" height="581" alt="output6 3" src="https://github.com/user-attachments/assets/2cdcb0d6-8d36-4d7d-afff-7a6dd8183103" />
